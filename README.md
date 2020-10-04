@@ -1,0 +1,1 @@
+El repositorio tiene un ejemplo de como utilizar la libreria xmlrpc para conectarse a un servidor odoo y leer datos.
